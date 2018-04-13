@@ -1,0 +1,2 @@
+# EthLucky
+eth lucky game
