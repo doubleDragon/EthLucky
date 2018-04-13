@@ -1,0 +1,12 @@
+.main-join-box {
+    padding: 25px 15px 15px 15px;
+    border: #bb2d3c solid 1px;
+    border-top: none;
+}
+
+.main-join-content {
+    border: #ff47c0 solid 1px;
+    border-radius: 4px;
+
+    padding: 90px 40px;
+}

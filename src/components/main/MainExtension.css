@@ -1,0 +1,66 @@
+.main-extension-box {
+    padding: 25px 15px 15px 15px;
+    border: #bb2d3c solid 1px;
+    border-top: none;
+}
+
+.main-extension-left {
+    display: inline-block;
+    width: 780px;
+    border: #ff47c0 solid 1px;
+    border-radius: 4px;
+    padding: 25px 5px 35px 25px;
+}
+
+.main-extension-box .main-extension-left .main-extension-left-underline {
+    width: 63px;height: 4px;
+    background-color: #ff47c0;
+}
+
+.main-extension-box .main-extension-left .main-extension-left-link {
+    display: inline-block;
+    color: #a9a5a5;
+    padding: 0 4px;
+    border: white solid 1px;
+    height: 28px;
+    line-height: 28px;
+    box-sizing: content-box;
+}
+
+.main-extension-box .main-extension-left .main-extension-left-button {
+    background-color: #ff47c0;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    box-sizing: border-box;
+    vertical-align: middle;
+    padding: 0 20px;
+}
+.main-extension-box .main-extension-left .main-extension-left-des {
+    /*max-width: 346px;*/
+}
+
+.main-extension-box .main-extension-left .main-extension-left-des .main-extension-left-des-l {
+    width: 38px;
+    vertical-align: top;
+}
+.main-extension-box .main-extension-left .main-extension-left-des .main-extension-left-des-r {
+    width: 352px;
+    display: inline-block;
+    line-height: 20px;
+}
+
+.main-extension-right {
+    display: inline-block;
+    width: 370px;height: 478px;
+    border: #ff47c0 solid 1px;
+    border-radius: 4px;
+    vertical-align: top;
+
+    padding-top: 25px;
+    padding-left: 25px;
+}
+.main-extension-right .main-extension-right-underline {
+    width: 63px;height: 4px;
+    background-color: #ff47c0;
+}

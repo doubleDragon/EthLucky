@@ -1,0 +1,20 @@
+.main-record-box {
+    padding: 25px 15px 15px 15px;
+    border: #bb2d3c solid 1px;
+    border-top: none;
+}
+
+.main-record-box .main-record-item {
+    display: inline-block;
+    border: #ff47c0 solid 1px;
+    border-radius: 4px;
+    padding: 22px 0 17px 0;
+    width: 376px;
+    height: 494px;
+    vertical-align: top;
+}
+
+.main-record-box .main-record-item .main-record-item-underline {
+    width: 194px;height: 4px;
+    background-color: #ff47c0;
+}

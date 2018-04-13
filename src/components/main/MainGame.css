@@ -1,0 +1,6 @@
+.main-game-box {
+    height: 480px;
+    border: #bb2d3c solid 1px;
+    border-top: none;
+    padding: 20px 0;
+}

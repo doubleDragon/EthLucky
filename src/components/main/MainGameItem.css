@@ -1,0 +1,50 @@
+.main-game-item {
+    width: 375px;
+    margin-left: 18px;
+    box-sizing: border-box;
+    padding: 20px 15px 0;
+    color: white;
+    border: #ff47c0 solid 1px;
+}
+
+.main-game-item .main-game-item-title {
+    color: #ff47c0;
+    font-size: 22px;
+}
+
+.main-game-item .main-game-item-underline {
+    height: 4px;
+    width: 194px;
+    background-color: #ff47c0;
+    margin-left: 72px;
+}
+
+.main-game-item .main-game-item-des {
+    display:inline-block;
+    font-size: 14px;
+}
+
+
+.main-game-item .main-game-item-input {
+    height: 30px;
+    line-height: 30px;
+    padding:0 5px;
+    width: 260px;
+    border: white solid 1px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.main-game-item .main-game-item-copy {
+    height: 30px;
+    width: 80px;
+    line-height: 30px;
+    background-color: #ff47c0;
+    margin-left: 2px;
+}
+
+.main-game-item .main-game-qr {
+    width: 84px;
+    height: 84px;
+    clear: both;
+}
