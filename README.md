@@ -1,2 +1,2 @@
-# ReactTemplate
-React project template
+# EthLucky
+eth lucky game
